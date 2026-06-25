@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dipesh Das</h1>
 <h3 align="center">A passionate frontend developer from kolkata, westbengal, India</h3>
 <img src="https://githubusercontent.com" width="300"/>
-
-
 - 🌱 I’m currently learning **Ai and ml fundamentals,**
 
 - 👨‍ if you want to make your own business website contact me here [https://cute-peony-7a31e1.netlify.app/](https://cute-peony-7a31e1.netlify.app/)
