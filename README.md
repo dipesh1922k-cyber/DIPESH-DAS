@@ -1,7 +1,8 @@
 [![IMG-20260626-WA0000.jpg](https://i.postimg.cc/Rh2NVJSm/IMG-20260626-WA0000.jpg)](https://postimg.cc/QKkXftKY)
 <h1 align="center">Hi 👋, I'm Dipesh Das</h1>
 <h3 align="center">A passionate frontend developer from kolkata, westbengal, India</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+![Lofi Coding](https://githubusercontent.com)
+
 - 🌱 I’m currently learning **Ai and ml fundamentals,**
 
 - 👨‍ if you want to make your own business website contact me here [https://cute-peony-7a31e1.netlify.app/](https://cute-peony-7a31e1.netlify.app/)
