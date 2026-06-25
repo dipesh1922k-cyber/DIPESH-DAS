@@ -1,7 +1,7 @@
-[![MasterHead]https://i.postimg.cc/Rh2NVJSm/IMG-20260626-WA0000.jpg
+[![IMG-20260626-WA0000.jpg](https://i.postimg.cc/Rh2NVJSm/IMG-20260626-WA0000.jpg)](https://postimg.cc/QKkXftKY)
 <h1 align="center">Hi 👋, I'm Dipesh Das</h1>
 <h3 align="center">A passionate frontend developer from kolkata, westbengal, India</h3>
-img align="right" alt="Coding" width="400" src=("https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX​")
+img align="right" alt="Coding" width="400" src=("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2YjEwNjN1cGpnenRtcmIxbTc0cnppOXNuNWFiMnU2a2htMG5jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif​")
 - 🌱 I’m currently learning **Ai and ml fundamentals,**
 
 - 👨‍ if you want to make your own business website contact me here [https://cute-peony-7a31e1.netlify.app/](https://cute-peony-7a31e1.netlify.app/)
