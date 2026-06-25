@@ -1,7 +1,8 @@
 [![IMG-20260626-WA0000.jpg](https://i.postimg.cc/Rh2NVJSm/IMG-20260626-WA0000.jpg)](https://postimg.cc/QKkXftKY)
 <h1 align="center">Hi 👋, I'm Dipesh Das</h1>
 <h3 align="center">A passionate frontend developer from kolkata, westbengal, India</h3>
-![Lofi Coding](https://githubusercontent.com)
+<img src="https://githubusercontent.com" width="300"/>
+
 
 - 🌱 I’m currently learning **Ai and ml fundamentals,**
 
